@@ -6,7 +6,7 @@ from aiogram.types import Message
 from aiogram.enums import ContentType
 from aiogram.client.default import DefaultBotProperties
 
-API_TOKEN = os.getenv("BOT_TOKEN")
+API_TOKEN = '7597118558:AAGE5IlILS7LaO1Cn2NAhl-3es_NguXGsMc'
 SAVE_DIR = 'saved_photos'
 os.makedirs(SAVE_DIR, exist_ok=True)
 
